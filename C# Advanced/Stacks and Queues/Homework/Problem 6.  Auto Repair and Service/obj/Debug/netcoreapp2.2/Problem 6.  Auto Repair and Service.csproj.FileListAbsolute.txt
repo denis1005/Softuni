@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.deps.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\bin\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.pdb
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 6.  Auto Repair and Service\obj\Debug\netcoreapp2.2\Problem 6.  Auto Repair and Service.pdb

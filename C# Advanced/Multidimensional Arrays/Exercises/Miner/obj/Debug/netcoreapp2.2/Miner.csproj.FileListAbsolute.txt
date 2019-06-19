@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\bin\Debug\netcoreapp2.2\Miner.deps.json
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\bin\Debug\netcoreapp2.2\Miner.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\bin\Debug\netcoreapp2.2\Miner.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\bin\Debug\netcoreapp2.2\Miner.dll
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\bin\Debug\netcoreapp2.2\Miner.pdb
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\obj\Debug\netcoreapp2.2\Miner.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\obj\Debug\netcoreapp2.2\Miner.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\obj\Debug\netcoreapp2.2\Miner.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\obj\Debug\netcoreapp2.2\Miner.dll
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\Miner\obj\Debug\netcoreapp2.2\Miner.pdb

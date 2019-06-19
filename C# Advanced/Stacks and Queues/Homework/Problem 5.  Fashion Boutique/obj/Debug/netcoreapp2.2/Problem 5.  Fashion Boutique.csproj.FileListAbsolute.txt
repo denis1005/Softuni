@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\bin\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.deps.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\bin\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\bin\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\bin\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\bin\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.pdb
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\obj\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\obj\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\obj\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\obj\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 5.  Fashion Boutique\obj\Debug\netcoreapp2.2\Problem 5.  Fashion Boutique.pdb

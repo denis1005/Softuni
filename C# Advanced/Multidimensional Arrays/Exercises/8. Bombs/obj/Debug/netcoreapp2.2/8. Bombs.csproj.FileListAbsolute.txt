@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\obj\Debug\netcoreapp2.2\8. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\obj\Debug\netcoreapp2.2\8. Bombs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\obj\Debug\netcoreapp2.2\8. Bombs.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\bin\Debug\netcoreapp2.2\8. Bombs.deps.json
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\bin\Debug\netcoreapp2.2\8. Bombs.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\bin\Debug\netcoreapp2.2\8. Bombs.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\bin\Debug\netcoreapp2.2\8. Bombs.dll
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\bin\Debug\netcoreapp2.2\8. Bombs.pdb
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\obj\Debug\netcoreapp2.2\8. Bombs.dll
+C:\Users\user\Desktop\C# Advanced\Multidimensional Arrays\Exercises\8. Bombs\obj\Debug\netcoreapp2.2\8. Bombs.pdb

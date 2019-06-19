@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.deps.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\bin\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.pdb
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 8.  Balanced Parentheses\obj\Debug\netcoreapp2.2\Problem 8.  Balanced Parentheses.pdb

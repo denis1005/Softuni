@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\bin\Debug\netcoreapp2.2\Problem 10.  Crossroads.deps.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\bin\Debug\netcoreapp2.2\Problem 10.  Crossroads.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\bin\Debug\netcoreapp2.2\Problem 10.  Crossroads.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\bin\Debug\netcoreapp2.2\Problem 10.  Crossroads.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\bin\Debug\netcoreapp2.2\Problem 10.  Crossroads.pdb
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\obj\Debug\netcoreapp2.2\Problem 10.  Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\obj\Debug\netcoreapp2.2\Problem 10.  Crossroads.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\obj\Debug\netcoreapp2.2\Problem 10.  Crossroads.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\obj\Debug\netcoreapp2.2\Problem 10.  Crossroads.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 10.  Crossroads\obj\Debug\netcoreapp2.2\Problem 10.  Crossroads.pdb

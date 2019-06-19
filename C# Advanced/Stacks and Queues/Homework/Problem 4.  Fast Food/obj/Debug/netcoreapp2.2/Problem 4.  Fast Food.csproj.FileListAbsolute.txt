@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\bin\Debug\netcoreapp2.2\Problem 4.  Fast Food.deps.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\bin\Debug\netcoreapp2.2\Problem 4.  Fast Food.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\bin\Debug\netcoreapp2.2\Problem 4.  Fast Food.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\bin\Debug\netcoreapp2.2\Problem 4.  Fast Food.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\bin\Debug\netcoreapp2.2\Problem 4.  Fast Food.pdb
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\obj\Debug\netcoreapp2.2\Problem 4.  Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\obj\Debug\netcoreapp2.2\Problem 4.  Fast Food.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\obj\Debug\netcoreapp2.2\Problem 4.  Fast Food.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\obj\Debug\netcoreapp2.2\Problem 4.  Fast Food.dll
+C:\Users\user\Desktop\C# Advanced\Stacks and Queues\Homework\Problem 4.  Fast Food\obj\Debug\netcoreapp2.2\Problem 4.  Fast Food.pdb
