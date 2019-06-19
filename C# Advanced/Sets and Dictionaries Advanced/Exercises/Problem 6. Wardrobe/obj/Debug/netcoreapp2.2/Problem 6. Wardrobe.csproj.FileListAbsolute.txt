@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp2.2\Problem 6. Wardrobe.deps.json
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp2.2\Problem 6. Wardrobe.runtimeconfig.json
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp2.2\Problem 6. Wardrobe.runtimeconfig.dev.json
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp2.2\Problem 6. Wardrobe.dll
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp2.2\Problem 6. Wardrobe.pdb
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp2.2\Problem 6. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp2.2\Problem 6. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp2.2\Problem 6. Wardrobe.AssemblyInfo.cs
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp2.2\Problem 6. Wardrobe.dll
+C:\Users\user\Desktop\Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp2.2\Problem 6. Wardrobe.pdb
