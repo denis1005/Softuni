@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\bin\Debug\netcoreapp2.2\Problem 3. Opinion Poll.deps.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\bin\Debug\netcoreapp2.2\Problem 3. Opinion Poll.runtimeconfig.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\bin\Debug\netcoreapp2.2\Problem 3. Opinion Poll.runtimeconfig.dev.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\bin\Debug\netcoreapp2.2\Problem 3. Opinion Poll.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\bin\Debug\netcoreapp2.2\Problem 3. Opinion Poll.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\obj\Debug\netcoreapp2.2\Problem 3. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\obj\Debug\netcoreapp2.2\Problem 3. Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\obj\Debug\netcoreapp2.2\Problem 3. Opinion Poll.AssemblyInfo.cs
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\obj\Debug\netcoreapp2.2\Problem 3. Opinion Poll.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\obj\Debug\netcoreapp2.2\Problem 3. Opinion Poll.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Opinion Poll\obj\Debug\netcoreapp2.2\Problem 3. Opinion Poll.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\obj\Debug\netcoreapp2.2\Problem 6. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\obj\Debug\netcoreapp2.2\Problem 6. Raw Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\obj\Debug\netcoreapp2.2\Problem 6. Raw Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\bin\Debug\netcoreapp2.2\Problem 6. Raw Data.deps.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\bin\Debug\netcoreapp2.2\Problem 6. Raw Data.runtimeconfig.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\bin\Debug\netcoreapp2.2\Problem 6. Raw Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\bin\Debug\netcoreapp2.2\Problem 6. Raw Data.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\bin\Debug\netcoreapp2.2\Problem 6. Raw Data.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\obj\Debug\netcoreapp2.2\Problem 6. Raw Data.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 6. Raw Data\obj\Debug\netcoreapp2.2\Problem 6. Raw Data.pdb

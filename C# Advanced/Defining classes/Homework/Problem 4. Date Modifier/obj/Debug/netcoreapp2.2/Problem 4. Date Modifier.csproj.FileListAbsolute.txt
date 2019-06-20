@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\bin\Debug\netcoreapp2.2\Problem 4. Date Modifier.deps.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\bin\Debug\netcoreapp2.2\Problem 4. Date Modifier.runtimeconfig.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\bin\Debug\netcoreapp2.2\Problem 4. Date Modifier.runtimeconfig.dev.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\bin\Debug\netcoreapp2.2\Problem 4. Date Modifier.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\bin\Debug\netcoreapp2.2\Problem 4. Date Modifier.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\obj\Debug\netcoreapp2.2\Problem 4. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\obj\Debug\netcoreapp2.2\Problem 4. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\obj\Debug\netcoreapp2.2\Problem 4. Date Modifier.AssemblyInfo.cs
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\obj\Debug\netcoreapp2.2\Problem 4. Date Modifier.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 4. Date Modifier\obj\Debug\netcoreapp2.2\Problem 4. Date Modifier.pdb

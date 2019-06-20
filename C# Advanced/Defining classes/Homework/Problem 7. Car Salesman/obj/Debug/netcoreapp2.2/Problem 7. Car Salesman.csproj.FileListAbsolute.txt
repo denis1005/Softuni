@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\obj\Debug\netcoreapp2.2\Problem 7. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\obj\Debug\netcoreapp2.2\Problem 7. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\obj\Debug\netcoreapp2.2\Problem 7. Car Salesman.AssemblyInfo.cs
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\bin\Debug\netcoreapp2.2\Problem 7. Car Salesman.deps.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\bin\Debug\netcoreapp2.2\Problem 7. Car Salesman.runtimeconfig.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\bin\Debug\netcoreapp2.2\Problem 7. Car Salesman.runtimeconfig.dev.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\bin\Debug\netcoreapp2.2\Problem 7. Car Salesman.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\bin\Debug\netcoreapp2.2\Problem 7. Car Salesman.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\obj\Debug\netcoreapp2.2\Problem 7. Car Salesman.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 7. Car Salesman\obj\Debug\netcoreapp2.2\Problem 7. Car Salesman.pdb

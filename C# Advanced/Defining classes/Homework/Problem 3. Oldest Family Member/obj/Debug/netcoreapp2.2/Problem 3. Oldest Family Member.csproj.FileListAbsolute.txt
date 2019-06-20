@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\obj\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\obj\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\obj\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.AssemblyInfo.cs
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\bin\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.deps.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\bin\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.runtimeconfig.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\bin\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\bin\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\bin\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\obj\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\obj\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 3. Oldest Family Member\obj\Debug\netcoreapp2.2\Problem 3. Oldest Family Member.csprojAssemblyReference.cache

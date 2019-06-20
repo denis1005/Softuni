@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\bin\Debug\netcoreapp2.2\Problem 5. Speed Racing.deps.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\bin\Debug\netcoreapp2.2\Problem 5. Speed Racing.runtimeconfig.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\bin\Debug\netcoreapp2.2\Problem 5. Speed Racing.runtimeconfig.dev.json
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\bin\Debug\netcoreapp2.2\Problem 5. Speed Racing.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\bin\Debug\netcoreapp2.2\Problem 5. Speed Racing.pdb
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\obj\Debug\netcoreapp2.2\Problem 5. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\obj\Debug\netcoreapp2.2\Problem 5. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\obj\Debug\netcoreapp2.2\Problem 5. Speed Racing.AssemblyInfo.cs
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\obj\Debug\netcoreapp2.2\Problem 5. Speed Racing.dll
+C:\Users\user\Desktop\Defining classes\Homework\Problem 5. Speed Racing\obj\Debug\netcoreapp2.2\Problem 5. Speed Racing.pdb
