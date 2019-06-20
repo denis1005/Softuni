@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\4. Matrix shuffling\\4. Matrix shuffling.csproj",
+      "projectUniqueName": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\4. Matrix shuffling\\4. Matrix shuffling.csproj",
       "projectName": "4. Matrix shuffling",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\4. Matrix shuffling\\4. Matrix shuffling.csproj",
+      "projectPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\4. Matrix shuffling\\4. Matrix shuffling.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\4. Matrix shuffling\\obj\\",
+      "outputPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\4. Matrix shuffling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

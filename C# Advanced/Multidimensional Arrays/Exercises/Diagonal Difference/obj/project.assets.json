@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\Diagonal Difference\\Diagonal Difference.csproj",
+      "projectUniqueName": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\Diagonal Difference\\Diagonal Difference.csproj",
       "projectName": "Diagonal Difference",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\Diagonal Difference\\Diagonal Difference.csproj",
+      "projectPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\Diagonal Difference\\Diagonal Difference.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\Diagonal Difference\\obj\\",
+      "outputPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\Diagonal Difference\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

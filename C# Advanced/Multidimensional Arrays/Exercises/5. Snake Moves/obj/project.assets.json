@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\5. Snake Moves\\5. Snake Moves.csproj",
+      "projectUniqueName": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\5. Snake Moves\\5. Snake Moves.csproj",
       "projectName": "5. Snake Moves",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\5. Snake Moves\\5. Snake Moves.csproj",
+      "projectPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\5. Snake Moves\\5. Snake Moves.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\5. Snake Moves\\obj\\",
+      "outputPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\5. Snake Moves\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

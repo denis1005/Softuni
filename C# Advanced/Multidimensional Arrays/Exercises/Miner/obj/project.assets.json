@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\Miner\\Miner.csproj",
+      "projectUniqueName": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\Miner\\Miner.csproj",
       "projectName": "Miner",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\Miner\\Miner.csproj",
+      "projectPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\Miner\\Miner.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\Miner\\obj\\",
+      "outputPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\Miner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

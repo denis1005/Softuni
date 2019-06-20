@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj",
+      "projectUniqueName": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj",
       "projectName": "10. Radioactive Mutant Vampire Bunnies",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj",
+      "projectPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# Advanced\\Multidimensional Arrays\\Exercises\\10. Radioactive Mutant Vampire Bunnies\\obj\\",
+      "outputPath": "D:\\GitHubRepoes\\SoftUni\\C# Advanced\\Multidimensional Arrays\\Exercises\\10. Radioactive Mutant Vampire Bunnies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
