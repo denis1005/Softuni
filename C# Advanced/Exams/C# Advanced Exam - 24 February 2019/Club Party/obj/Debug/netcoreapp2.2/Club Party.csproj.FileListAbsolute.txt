@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\bin\Debug\netcoreapp2.2\Club Party.deps.json
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\bin\Debug\netcoreapp2.2\Club Party.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\bin\Debug\netcoreapp2.2\Club Party.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\bin\Debug\netcoreapp2.2\Club Party.dll
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\bin\Debug\netcoreapp2.2\Club Party.pdb
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\obj\Debug\netcoreapp2.2\Club Party.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\obj\Debug\netcoreapp2.2\Club Party.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\obj\Debug\netcoreapp2.2\Club Party.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\obj\Debug\netcoreapp2.2\Club Party.dll
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\obj\Debug\netcoreapp2.2\Club Party.pdb
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Club Party\obj\Debug\netcoreapp2.2\Club Party.csprojAssemblyReference.cache

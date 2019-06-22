@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\bin\Debug\netcoreapp2.2\Tron Racers.deps.json
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\bin\Debug\netcoreapp2.2\Tron Racers.runtimeconfig.json
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\bin\Debug\netcoreapp2.2\Tron Racers.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\bin\Debug\netcoreapp2.2\Tron Racers.dll
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\bin\Debug\netcoreapp2.2\Tron Racers.pdb
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\obj\Debug\netcoreapp2.2\Tron Racers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\obj\Debug\netcoreapp2.2\Tron Racers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\obj\Debug\netcoreapp2.2\Tron Racers.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\obj\Debug\netcoreapp2.2\Tron Racers.dll
+C:\Users\user\Desktop\C# Advanced Exam - 24 February 2019\Problems\Tron Racers\obj\Debug\netcoreapp2.2\Tron Racers.pdb
